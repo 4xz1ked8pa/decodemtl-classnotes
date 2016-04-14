@@ -1,5 +1,5 @@
 ### Array Functions
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. 
+> When you need to depend on the order of the elements in the collection, use Arrays, when order is not important, use objects. Order is not guaranteed in objects, but they provide for fast key-value pair lookups.
 
 | Function       | Parameters                    | Purpose                                                                                      |
 | :------------- |:------------------------------| :--------------------------------------------------------------------------------------------|
