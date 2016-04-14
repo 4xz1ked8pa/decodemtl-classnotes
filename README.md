@@ -1,6 +1,7 @@
 ### Array Functions
 > When you need to depend on the order of the elements in the collection, use Arrays, when order is not important, use objects. Order is not guaranteed in objects, but they provide for fast key-value pair lookups.
 
+
 | Function       | Parameters                    | Purpose                                                                                      |
 | :------------- |:------------------------------| :--------------------------------------------------------------------------------------------|
 | **.map**       | `function`                    | Apply a function to every element of an array.                                               |
