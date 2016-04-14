@@ -14,4 +14,5 @@
 | **.every**     | `function`                    | Tests whether all elements in the array pass the test provided by the function.              |      
 | **.sort**      | `function`                    | Sorts an array according to a function or by unicode characters order by default.            |
 | **.reverse**   |                               | Reverses the order of every element of an array.                                             |
+| **.shift**     |                               | Removes the first element from an array and returns that element.                            |
 | **.pop**       |                               | Removes the last element from an array and returns that element.                             |
