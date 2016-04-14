@@ -6,6 +6,6 @@ function fun1() {
     console.log("The value of someVar is: " + someVar1);
     alert("get");
   }
-  return fun2;
+  return fun2();
 }
 console.log(fun1());
