@@ -1,5 +1,3 @@
-
-# DecodeMTL - Charles Gaudreau Jackson - Classnotes
 ### Array Functions
 | Function       | Arguments     | Cool        |
 | -------------- |:-------------:| -----------:|
