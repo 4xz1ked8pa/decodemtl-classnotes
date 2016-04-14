@@ -1,4 +1,4 @@
 ### Array Functions
-| Function       | Arguments     | Cool        |
-| -------------- |:-------------:| -----------:|
-| **.map**       | `function`    | **$1600**   |
+| Function       | Arguments     | Purpose                                              |
+| -------------- |:-------------:| ----------------------------------------------------:|
+| **.map**       | `function`    | **Apply a function to every element of an array.**   |
