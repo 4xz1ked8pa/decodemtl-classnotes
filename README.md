@@ -16,5 +16,5 @@
 | **.reverse**   |                               | Reverses the order of every element of an array.                                             |
 | **.shift**     |                               | Removes the first element from an array and returns that element.                            |
 | **.pop**       |                               | Removes the last element from an array and returns that element.                             |
-| **.filter**    |                               | Creates a new array with all elements that pass a test.                                      |
-| **.map**       | `array`, `callback`           | Calls a function on every element of an array and creates a new array.                       |
+| **.filter**    | `callback`                    | Creates a new array with all elements that pass a test.                                      |
+| **.map**       | `callback`                    | Calls a function on every element of an array and creates a new array.                       |
