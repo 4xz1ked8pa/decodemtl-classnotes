@@ -18,4 +18,4 @@
 | **.pop**       |                               | Removes the last element from an array and returns that element.                             |
 | **.filter**    | `callback`                    | Creates a new array with all elements that pass a test.                                      |
 | **.map**       | `callback`                    | Calls a function on every element of an array and creates a new array.                       |
-| **.reduce**    | `callback`, `start val`       |                                       |
+| **.reduce**    | `callback`, `init val`       |                                       |
