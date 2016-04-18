@@ -20,6 +20,8 @@
 | **.reduce**    | `callback`, `init val`        |                                       |
 
 
+
+
 ### Primitives vs Objects
 > When you need to depend on the order of the elements in the collection, use Arrays, when order is not important, use objects. Order is not guaranteed in objects, but they provide for fast key-value pair lookups.
 
