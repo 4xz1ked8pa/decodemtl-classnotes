@@ -1,7 +1,6 @@
 ### Array Functions
 > When you need to depend on the order of the elements in the collection, use Arrays, when order is not important, use objects. Order is not guaranteed in objects, but they provide for fast key-value pair lookups.
 
-
 | Function       | Parameters                    | Purpose                                                                                      |
 | :------------- |:------------------------------| :--------------------------------------------------------------------------------------------|
 | **.map**       | `function`                    | Apply a function to every element of an array.                                               |
@@ -18,4 +17,15 @@
 | **.pop**       |                               | Removes the last element from an array and returns that element.                             |
 | **.filter**    | `callback`                    | Creates a new array with all elements that pass a test.                                      |
 | **.map**       | `callback`                    | Calls a function on every element of an array and creates a new array.                       |
-| **.reduce**    | `callback`, `init val`       |                                       |
+| **.reduce**    | `callback`, `init val`        |                                       |
+
+
+### Primitives vs Objects
+> When you need to depend on the order of the elements in the collection, use Arrays, when order is not important, use objects. Order is not guaranteed in objects, but they provide for fast key-value pair lookups.
+
+| Primitives       | Object                    |
+| :----------------|:--------------------------|
+| `Numbers`        | `Array`                   |
+| `String`         |             |
+| `Boolean`        |             |
+| `Funcition`       |            |
