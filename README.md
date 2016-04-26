@@ -38,4 +38,4 @@
 | Statements                                                 |
 | :--------------------------------------------------------- |
 | **SELECT** `*` **FROM** `table_name` **WHERE** `id=1`; |
-| **INSERT INTO**  `table_name`  **(** `email` **) VALUES (** `charles@cursuum.com` **)**; |
+| **INSERT INTO**  `table_name`  **(** `email` **) VALUES (** `charles@cursuum.com` **)**, **(** `geoffroy@cursuum.com` **)**; |
