@@ -39,4 +39,4 @@
 | :--------------------------------------------------------------------------------------------------------------------------- |
 | **SELECT** `*` **FROM** `table_name` **WHERE** `id=1`;                                                                       |
 | **INSERT INTO**  `table_name`  **(** `email` **) VALUES (** `charles@cursuum.com` **)**, **(** `geoffroy@cursuum.com` **)**; |
-| **UPDATE** `email` **FROM** `table_name` **WHERE** `id=1`;                                                                       |
+| **UPDATE** `table_name` **SET** `email=charles.jackson@cursuum.com` **WHERE** `email=charles@cursuum.com`;                   |
