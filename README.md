@@ -40,5 +40,6 @@
 | **SELECT** `*` **FROM** `table_name` **WHERE** `id=1`;                                                                       |
 | **INSERT INTO**  `table_name`  **(** `email` **) VALUES (** `charles@cursuum.com` **)**, **(** `geoffroy@cursuum.com` **)**; |
 | **UPDATE** `table_name` **SET** `email=charles.jackson@cursuum.com` **WHERE** `email=charles@cursuum.com`;                   |
-| **ALTER** `table_name` **ADD COLUMN** `name VARCHAR(120)`;                                                                               |
+| **ALTER** `table_name` **ADD COLUMN** `name VARCHAR(120)`;                                                                   |
 | **DELETE FROM** `table_name` **WHERE** `id=1`;                                                                               |
+| **DROP TABLE** `table_name`;                                                                                                 |
