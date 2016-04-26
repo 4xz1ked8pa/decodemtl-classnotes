@@ -31,3 +31,10 @@
 | `String`         |             |
 | `Boolean`        |             |
 | `Funcition`       |            |
+
+
+
+### SQL Statements
+| Statmement                                                 |
+| :--------------------------------------------------------- |
+| **SELECT** * **FROM** `table_name` **WHERE** `id=1`; |
