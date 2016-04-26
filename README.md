@@ -37,4 +37,4 @@
 ### SQL Statements
 | Statements                                                 |
 | :--------------------------------------------------------- |
-| **SELECT** `*` **FROM** `table_name` **WHERE** `id=1`; |
+| **SELECT**  `*`  **FROM**  `table_name`  **WHERE**  `id=1`; |
